@@ -9,7 +9,7 @@
 <table align="center">
   <tr align="center">
     <td>
-      <a href="https://github.com/">
+      <a href="https://github.com/DanMacDonald">
         <img src="https://avatars.githubusercontent.com/u/3269261?s=120&v=4" /><br />
         DanMacDonald
       </a>
