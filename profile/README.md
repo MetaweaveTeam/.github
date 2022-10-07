@@ -2,7 +2,9 @@
   <img height="250" src="https://user-images.githubusercontent.com/7074019/194460252-a466c093-2592-4545-929a-fc370e51319b.png" />
 </div>
 
-<h1 align="center">🏆 Contributors 🏆</h1>
+----
+
+<h2 align="center">🏆 Contributors 🏆</h1>
 
 <table align="center">
   <tr align="center">
@@ -33,7 +35,9 @@
   </tr>
 </table>
 
-# You can become a contributor.
+----
+
+<h1 align="center">🫵 You can become a contributor 🫵</h1>
 
 ## Why?
 
