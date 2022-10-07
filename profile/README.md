@@ -54,4 +54,4 @@ Here are the minimal Arweave tools you need to know to browse our repositories w
 
 ## Where?
 
-Have a look at the pinned repositories :)
+Here 👇
