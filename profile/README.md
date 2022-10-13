@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/7074019/194460252-a466c093-2592-4545-929a-fc370e51319b.png" />
+  <a href="https://metaweave.com">
+    <img height="250" src="https://user-images.githubusercontent.com/7074019/194460252-a466c093-2592-4545-929a-fc370e51319b.png" />
+  </a>
 </div>
 
 ----
