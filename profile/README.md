@@ -54,6 +54,8 @@ Here are the minimal Arweave tools you need to know to browse our repositories w
 - Query arweave txs: [ar-gql](https://www.npmjs.com/package/ar-gql)
 - ar-gql dev tool + documentation: [arweave.net/graphql](https://arweave.net/graphql)
 
+- (opt) [if you like Metaweave style...](https://github.com/MetaweaveTeam/.github/blob/main/profile/CONTRIBUTING.md)
+
 ## Where?
 
 Here 👇
