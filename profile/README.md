@@ -4,7 +4,19 @@
   </a>
 </div>
 
-## Getting started with Arweave
+# ar://arprofile
+<img height="120" src="https://ncrdbmpp7xpxj7vbbjysm7fd7az7jjdng6j76pbdbu4bdmpiujmq.arweave.net/aKIwse_933T-oQpxJnyj-DP0pG03k_88Iw04EbHoolk" /><br />
+![GitHub Repo stars](https://img.shields.io/github/stars/MetaweaveTeam/arprofile?color=%23f817b5&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MetaweaveTeam/arprofile?color=%23bc00ff&style=for-the-badge)
+
+## arweave-account
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/MetaweaveTeam/arweave-account?color=%23f817b5&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/MetaweaveTeam/arweave-account?color=%23bc00ff&style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/arweave-account?label=NPM&style=for-the-badge)
+
+## Getting started with building on Arweave
 
 - Arweave wallet: [ArConnect](https://arconnect.io)
 - Arweave lib: [arweave-js](https://www.npmjs.com/package/arweave)
