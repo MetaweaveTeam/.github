@@ -4,9 +4,17 @@
   </a>
 </div>
 
-----
+## Getting started with Arweave
 
-<h2 align="center">🏆 Contributors 🏆</h1>
+- Arweave wallet: [ArConnect](https://arconnect.io)
+- Arweave lib: [arweave-js](https://www.npmjs.com/package/arweave)
+- Query arweave txs: [ar-gql](https://www.npmjs.com/package/ar-gql)
+- ar-gql dev tool + documentation: [arweave.net/graphql](https://arweave.net/graphql)
+
+- (opt) [if you like Metaweave style...](https://github.com/MetaweaveTeam/.github/blob/main/profile/CONTRIBUTING.md)
+
+
+<h2 align="center">🏆 Special thanks 🏆</h1>
 
 <table align="center">
   <tr align="center">
@@ -36,12 +44,3 @@
     </td>
   </tr>
 </table>
-
-## Getting started with Arweave
-
-- Arweave wallet: [ArConnect](https://arconnect.io)
-- Arweave lib: [arweave-js](https://www.npmjs.com/package/arweave)
-- Query arweave txs: [ar-gql](https://www.npmjs.com/package/ar-gql)
-- ar-gql dev tool + documentation: [arweave.net/graphql](https://arweave.net/graphql)
-
-- (opt) [if you like Metaweave style...](https://github.com/MetaweaveTeam/.github/blob/main/profile/CONTRIBUTING.md)
