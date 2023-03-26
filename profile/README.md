@@ -37,17 +37,7 @@
   </tr>
 </table>
 
-----
-
-<h1 align="center">🫵 You can become a contributor 🫵</h1>
-
-## Why?
-
-We are hiring. For your first PR merged, you'll become eligible for a price and an interview with us.
-
-## How?
-
-Here are the minimal Arweave tools you need to know to browse our repositories with comfort and confidence:
+## Getting started with Arweave
 
 - Arweave wallet: [ArConnect](https://arconnect.io)
 - Arweave lib: [arweave-js](https://www.npmjs.com/package/arweave)
@@ -55,7 +45,3 @@ Here are the minimal Arweave tools you need to know to browse our repositories w
 - ar-gql dev tool + documentation: [arweave.net/graphql](https://arweave.net/graphql)
 
 - (opt) [if you like Metaweave style...](https://github.com/MetaweaveTeam/.github/blob/main/profile/CONTRIBUTING.md)
-
-## Where?
-
-Here 👇
